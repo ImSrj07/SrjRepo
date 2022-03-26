@@ -1,0 +1,11 @@
+p{
+    color:red;
+}
+
+.service{
+    background-color: yello;
+    height: 400px;
+    width: 400px;
+    border-radius:2px solid;
+    font: 100;
+}
